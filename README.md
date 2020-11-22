@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**ScriptingForLife/ScriptingForLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Methyl 🪐  
+  
+  
+💻 Etudiant à [L'école IPSSI](https://github.com/IPSSI-school)  
+🔐 Passionné de Cybersécurité & Réseaux informatiques  
+💎 >_ PHP / SQL / BASH lover  
+  
+  
+> Mes réseaux 🌐
+  
+📸 Instagram : [@cow.s3c](https://instagram.com/cow.s3c)  
+✉️ E-mail : [methyls3c@gmail.com](mailto:methyls3c@gmail.com)  
+🌙 Site web : [methylean.space](https://methylean.space)  
+  
+  
+> Mes Statistiques 📊  
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ScriptingForLife&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptingForLife&show_icons=true&hide_border=true" />
