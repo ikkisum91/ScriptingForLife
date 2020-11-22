@@ -1,7 +1,6 @@
 # Methyl 🪐  
   
   
-💻 Etudiant à [L'école IPSSI](https://github.com/IPSSI-school)  
 🔐 Passionné de Cybersécurité & Réseaux informatiques  
 💎 >_ PHP / SQL / BASH lover  
   
