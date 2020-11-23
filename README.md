@@ -2,7 +2,7 @@
   
   
 🔐 Passionné de Cybersécurité & Réseaux informatiques  
-💎 >_ PHP / SQL / BASH lover  
+💎 >_ PHP / SQL / BASH & C lover  
   
   
 > Mes réseaux 🌐
